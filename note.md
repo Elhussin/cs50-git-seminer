@@ -35,3 +35,8 @@ git checkout -b  branhname =to get new branch
 git push -u origin <branch-name>
 
 pull requests (prs)
+
+
+git checkout -b 'add-comment'
+git status
+git add .

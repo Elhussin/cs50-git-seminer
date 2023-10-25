@@ -1,6 +1,6 @@
 first commit 2 bash: line 1: ddd: command not found
 
-
+ok
 
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
